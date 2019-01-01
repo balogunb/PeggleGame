@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=HitBall
+comment0.text=\r\n\ HitBall\r\n\ A\ class\ for\ balls\ that\ would\ be\ hit\ by\ the\ CannonBall\ in\ the\ PeggleGame\r\n\ Testing\ Hypothesis-\r\n\ Added\ method\ explode\ to\ allow\ the\ ball\ explode\ when\ hit\ by\ a\ cannon\ ball\ \r\n\ \r\n
+comment1.params=speed\ game
+comment1.target=HitBall(double,\ PeggleSpace)
+comment1.text=the\ constructor,\ create\ the\ hit\ ball
+comment2.params=
+comment2.target=void\ run()
+comment2.text=the\ run\ method,\ to\ animate\ the\ ball
+comment3.params=
+comment3.target=void\ oneTimeStep()
+comment4.params=
+comment4.target=void\ die()
+comment4.text=kill\ the\ HitBall
+comment5.params=
+comment5.target=boolean\ isHit()
+comment6.params=
+comment6.target=boolean\ getIsExplosive()
+comment7.params=
+comment7.target=void\ explode()
+numComments=8
